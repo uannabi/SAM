@@ -15,3 +15,5 @@ Resources needed in your AWS account before beginning the demos:
         
 4. Use Steps functions
 
+5. Payload and all permission perameter . 
+
